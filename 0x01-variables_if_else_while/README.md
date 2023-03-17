@@ -98,4 +98,8 @@ implementing `while` loops.
     * Numbers are printed with two digits [ie. `1` is printed as `01`].
     * `00 01` and `01 00` are considered the same as the combination of of the numbers `0` and `1`.
     * Combinations of numbers are separated by `,`, followed by a space.
+<<<<<<< HEAD
     * Combinations of numbers are printed in ascending order.
+=======
+    * Combinations of numbers are printed in ascending order.
+>>>>>>> 02401fed3f7e46cd6db5c111109e460893532b07
